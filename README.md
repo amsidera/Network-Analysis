@@ -1,11 +1,11 @@
 # Network-Analysis
 
-#Introduction
+# Introduction
 Proyects developed during the course online social network analysis. In this course, we explored the latest algorithms for analyzing online social networks, considering both their structure and content. Fundamentals of social graph theory will be covered, including distance, search, influence, community discovery, diffusion, and graph dynamics.
 
 
 
-##Proyects
+# Proyects
 1. Collecting a political social network: The goal is to use the Twitter API to construct a social network of the accounts of 4
 U.S. presedential candidates from the previous election.
 
