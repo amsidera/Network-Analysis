@@ -1,7 +1,7 @@
 # Network-Analysis
 
 # Introduction
-Proyects developed during the course online social network analysis. In this course, we explored the latest algorithms for analyzing online social networks, considering both their structure and content. Fundamentals of social graph theory will be covered, including distance, search, influence, community discovery, diffusion, and graph dynamics.
+Proyects developed during the course online social network analysis. We explored the latest algorithms for analyzing online social networks, considering both their structure and content.
 
 
 
